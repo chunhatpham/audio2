@@ -350,7 +350,7 @@ window.openPlayer = function(movieName) {
     // Phân tích Link Audio tương ứng với Phim
     let audioLink = "";
     if (movieName.includes('Chị Gái Nằm Với Tôi')) audioLink = "https://files.catbox.moe/nzldnc.m4a";
-    else if (movieName.includes('Cha Mẹ Bắt Tôi Về')) audioLink = "https://files.catbox.moe/pf6aqg.jpeg"; 
+    else if (movieName.includes('Cha Mẹ Bắt Tôi Về')) audioLink = "https://files.catbox.moe/sgv8s9.m4a"; 
     else if (movieName.includes('Chị Gái Loại Bỏ Tôi')) audioLink = "https://files.catbox.moe/9qspdw.m4a";
     else if (movieName.includes('Các Chị Gái Của Tôi')) audioLink = "https://files.catbox.moe/4skfsa.m4a";
     else if (movieName.includes('Tôi Đã Bị Thay Thế')) audioLink = "https://files.catbox.moe/0ibes6.m4a";
